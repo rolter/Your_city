@@ -1,0 +1,13 @@
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\bin\Debug\Tzucky-Pucky.exe.config
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\bin\Debug\Tzucky-Pucky.exe
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\bin\Debug\Tzucky-Pucky.pdb
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky-Pucky.csprojResolveAssemblyReference.cache
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky_Pucky.First_Page.resources
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky_Pucky.Properties.Resources.resources
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky-Pucky.csproj.GenerateResource.Cache
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky-Pucky.exe
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky-Pucky.pdb
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky_Pucky.Inregistrare.resources
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\obj\Debug\Tzucky_Pucky.Logare.resources
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\bin\Debug\Informations.mdf
+A:\OliC#\Tzucky-Pucky\Tzucky-Pucky\bin\Debug\Informations_log.ldf
